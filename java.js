@@ -44,7 +44,7 @@ function verifyStep1() {
     document.querySelector('#msg').style.display = 'none';
 
      // Redirect to the login page
-    window.location.href = "login.html";
+    window.location.href = "index.html";
   },5000);
 
       } else {
